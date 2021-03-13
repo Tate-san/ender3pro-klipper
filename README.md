@@ -12,5 +12,6 @@
 - LCD
 - Beeper
 - TMC2208 with lowered current values
+- Macros
 
 [![](https://www.klipper3d.org/img/klipper-logo.png)](https://www.klipper3d.org/img/klipper-logo.png)
