@@ -13,5 +13,6 @@
 - Beeper
 - TMC2208 with lowered current values
 - Macros
+- Power relay on GPIO26
 
 [![](https://www.klipper3d.org/img/klipper-logo.png)](https://www.klipper3d.org/img/klipper-logo.png)
